@@ -1,0 +1,8 @@
+package minhhoang.d.db_demo
+
+const val DATABASE_FILE = "SQLITE.SQLITE"
+const val TABLE_NAME = "TABLE_STUDENT"
+const val COL_ID = "ID"
+const val COL_STUDENT_NAME = "STUDENT_NAME"
+const val COL_STUDENT_ADDRESS = "STUDENT_ADDRESS"
+const val COL_STUDENT_SEXSUAL = "STUDNET_SEXSUAL"
